@@ -9,11 +9,11 @@ require (
 	github.com/chromedp/cdproto v0.0.0-20210713064928-7d28b402946a
 	github.com/chromedp/chromedp v0.7.4
 	github.com/fatih/color v1.9.0 // indirect
-	github.com/labstack/echo/v4 v4.4.0
+	github.com/labstack/echo/v4 v4.7.2
 	github.com/logrusorgru/aurora v2.0.3+incompatible
 	github.com/spf13/cobra v1.2.1
 	github.com/stretchr/testify v1.7.0
-	github.com/swaggo/echo-swagger v1.1.0
-	github.com/swaggo/swag v1.7.0
+	github.com/swaggo/echo-swagger v1.3.1
+	github.com/swaggo/swag v1.8.1
 	github.com/tylerb/graceful v1.2.15
 )
